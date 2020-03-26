@@ -1,0 +1,4 @@
+C:\Users\Sanyi\Desktop\Juhász\footgolf\footgolf\bin\Debug\footgolf.exe
+C:\Users\Sanyi\Desktop\Juhász\footgolf\footgolf\bin\Debug\footgolf.pdb
+C:\Users\Sanyi\Desktop\Juhász\footgolf\footgolf\obj\x86\Debug\footgolf.exe
+C:\Users\Sanyi\Desktop\Juhász\footgolf\footgolf\obj\x86\Debug\footgolf.pdb
